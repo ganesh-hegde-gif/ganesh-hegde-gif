@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here's a little about me and the work I do.
 
 ## 🔗 Connect With Me
 
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
+* 📧 Email: *[your-email@example.com](mail:hegdeganesh79@gmail.com*
 * 💼 LinkedIn: *your-linkedin-url*
 
 ---
