@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and tech enthu
 💻 Passionate about coding, building tools, and learning new technologies.  
 🌱 Exploring AI, Smart Glasses, and Assistive Tech.  
 🎯 Goal: To create projects that make a difference.  
+📍 Based in India  
 
 ---
 
@@ -19,12 +20,15 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and tech enthu
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 ### **Tools & Platforms**
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ---
 
@@ -35,12 +39,22 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and tech enthu
 **Description:** A responsive portfolio website built using HTML, CSS & JavaScript.  
 **Repo:** [Portfolio](https://github.com/your-github-username/portfolio)  
 
-### **2. AI/Smart Device Project**
+### **2. Smart Glass AI Project**
 ![AI](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
 **Description:** A project on smart glass technology using AI and computer vision.  
 **Repo:** [Smart Glass](https://github.com/your-github-username/smart-glass)  
 
-*(Add more projects in the same style)*
+### **3. Angular Task Manager**
+![Angular](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)  
+**Description:** A task management application built using Angular and TypeScript.  
+**Repo:** [Task Manager](https://github.com/your-github-username/angular-task-manager)  
+
+### **4. Java Banking System**
+![Java](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
+**Description:** A console-based banking system project built in Java.  
+**Repo:** [Banking System](https://github.com/your-github-username/java-banking-system)  
+
+*(Add more projects in the same style as you build them)*
 
 ---
 
@@ -58,4 +72,3 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and tech enthu
 ---
 
 ✨ Thanks for visiting! Feel free to explore my repositories and projects.  
-
